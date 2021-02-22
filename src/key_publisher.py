@@ -23,4 +23,4 @@ if __name__ == '__main__':
         rate.sleep()
     
     # restore keyboard attributes
-    termios.tcsetattr(sys.stdin, termios.TCSADRAIN, old_attr)
+    termios.tcsetattr(sys.stdin, termios.TCSADRAIN, old_attr)   
