@@ -1,6 +1,6 @@
 # DancingRobot
 
-Controls:
+Controls:	
 
   ' ': halts all motion for the robot
   
